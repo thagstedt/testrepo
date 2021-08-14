@@ -1,0 +1,4 @@
+provider.tf
+crash.log
+.terraform
+.terraform.lock.hcl
